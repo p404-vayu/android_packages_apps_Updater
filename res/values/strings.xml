@@ -31,7 +31,7 @@
           {device} - Device name
           {type} - Build type
     -->
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/P-404/android_packages_services_ota/ota/devices/{device}.json</string>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/p404-vayu/updoot_stuffs/vayu.json</string>
 
     <string name="verification_failed_notification">Verification failed</string>
     <string name="verifying_download_notification">Verifying update</string>
